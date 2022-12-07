@@ -35,4 +35,5 @@ The last task is to make the device catch the ball which is thrown by others.
 -Result
 
 <img src="img/catch.gif" alt = "catch" title = "catch">
+
 ---
